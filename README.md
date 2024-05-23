@@ -13,6 +13,7 @@
 * **Bilibili**
   * [01-使用默认的ERC20合约](https://www.bilibili.com/video/BV1QG4y147pN/?spm_id_from=333.999.0.0) 
   * [02-自写ERC20合约包装原生币](https://www.bilibili.com/video/BV1Dv4y1m7WC/?spm_id_from=333.999.0.0)
+  * [03-通过逻辑合约跨链](https://www.bilibili.com/video/BV1kP411g79T/?spm_id_from=333.788)
 * **YouTube**
   * [01-使用默认的ERC20合约](https://www.youtube.com/watch?v=n2VABdFXlu4&list=PL9aoThVN5PLlJ-jVR0seDFxy5h25cdgum&index=1)
   * [02-自写ERC20合约包装原生币](https://www.youtube.com/watch?v=JJGlEaVOWD4&list=PL9aoThVN5PLlJ-jVR0seDFxy5h25cdgum&index=2)
