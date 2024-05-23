@@ -1,8 +1,8 @@
 # ChainBridge实践
 ![avatar](./docs/images/chainbridge01.png)
 整个Chain Bridge由三部分组成:
-* ChainA
-* ChainB
+* ChainA上的合约
+* ChainB上的合约
 * ChainBridge Server
 
 ## 其他
@@ -160,7 +160,9 @@ chainbridge --config config.json --keystore keys --blockstore data
 * `--blockstore`:指定block存储目录，存放已经扫描过的区块的高度。
 
 ## 通过其他合约跨链
+
 ![avatar](./docs/images/chainbridge02.png)
+
 用户直接调用桥合约和通过其他合约调用桥合约，桥合约的`deposit`方法的`msg.sender`不一样了。
 
 ### 0.部署ERC20合约
